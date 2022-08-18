@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Noto+Sans:wght@500&display=swap');
+h1
+{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+font-family: 'Noto Sans', sans-serif;
+}
+
+#show
+{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+font-family: 'Noto Sans', sans-serif;
+font-size: 200%;
+}
+#main
+{
+    width: 50%;
+    height: 50px;
+    font-size: 150%;
+    color: black;
+}
+.fetchedResult
+{
+    width: 50%;
+    
+    font-size: 150%;
+    color: aquamarine;
+    background-color: black;
+}
+
+.fetchedResult span
+{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+    display: block;
+    /* border: 2px solid white; */
+}
+*
+{
+    color: whitesmoke;
+}
+body
+{
+    background-color: black;
+}
